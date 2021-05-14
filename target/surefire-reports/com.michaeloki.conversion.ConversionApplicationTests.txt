@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.michaeloki.conversion.ConversionApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.804 s - in com.michaeloki.conversion.ConversionApplicationTests
